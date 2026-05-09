@@ -34,7 +34,7 @@ All business insights, KPIs, and operational trends were generated using **pure 
 
 ## 🗂️ Relational Schema
 
-[![ER Diagram](Images/Healthcare%20schema%20ERD.jpg)](https://www.linkedin.com/posts/moksh-kapoor-618495322_healthcare-operations-revenue-analysis-activity-7446779991532503040-lahh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28)
+[![ER Diagram](Images/Healthcare%20schema.jpg)](https://www.linkedin.com/posts/moksh-kapoor-618495322_healthcare-operations-revenue-analysis-activity-7446779991532503040-lahh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28)
 
 ---
 
@@ -260,11 +260,13 @@ Through this project, I strengthened my skills in:
 ```bash
 healthcare-operations-revenue-analytics/
 │
+├── Datasets/
+│   └── Datasets.rar
+|
 ├── Images/
 │   └── Healthcare.jpg
 │   └── Healthcare schema.jpg
 │
-├── SQL Queries.sql
 ├── README.md
 ```
 
